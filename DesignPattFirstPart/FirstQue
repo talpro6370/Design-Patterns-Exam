@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DesignPatterns1
+{
+    class DesignPatternsFirstPart
+    {
+        static void Main(string[] args)
+        {
+            
+             1. State dp
+             2. Composite
+             3. Proxy
+             4. Prototype
+             5. CHAIN OF RES
+             6. Visitor
+             7. MEDIATOR
+             8. BUILDER
+             9. Template Method
+             10. DECORATOR
+             11. MEMENTO
+             12. Builder
+             13. Adapter 
+
+
+
+
+             
+
+
+
+        }
+    }
+}
